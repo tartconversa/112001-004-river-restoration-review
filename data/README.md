@@ -1,5 +1,5 @@
-# Synthetic input data
+# 合成输入数据
 
-Synthetic river-section observations, ecological surveys and community reports for restoration follow-up.
+用于跟进河段修复的合成水质观察、生态调查和社区反馈。
 
-All records are fictional and intended only for local development. Dates and measurements are illustrative.
+所有记录均为虚构，仅供本地开发使用。日期与数值均为示例。
