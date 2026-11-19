@@ -1,0 +1,4 @@
+evidence_id,reach_id,date,evidence_type,measure,value,unit,source_ref
+E01,R-A,2026-05-10,water,DO,8.1,mg_l,LAB-1
+E02,R-B,2026-05-10,water,DO,5.2,mg_l,LAB-2
+E03,R-B,2026-06-15,ecology,fish_species,7,count,SURVEY-4
