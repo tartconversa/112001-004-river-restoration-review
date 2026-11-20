@@ -2,3 +2,4 @@ criterion_id,project_id,measure,operator,threshold,valid_from,valid_to
 K01,REST-1,DO,ge,6.0,2026-01-01,
 K02,REST-1,fish_species,ge,8,2026-01-01,
 K03,REST-1,open_high_risk_actions,eq,0,2026-01-01,
+K04,REST-2,DO,ge,6.0,2026-01-01,

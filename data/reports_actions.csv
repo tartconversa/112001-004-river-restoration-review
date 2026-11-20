@@ -1,4 +1,7 @@
-record_id,reach_id,reported_at,kind,description,action_status,owner,due_date
-C01,R-B,2026-06-18,community,oil_sheen_near_outfall,investigating,field_team,2026-06-25
-C02,R-B,2026-06-19,community,oil_sheen_near_outfall,open,watershed_office,2026-06-28
-A01,R-A,2026-06-01,action,source_removed,complete,contractor,2026-06-10
+record_id,reach_id,reported_at,kind,description,action_status,owner,due_date,linked_group,evidence_refs
+C01,R-B,2026-06-18,community,oil_sheen_near_outfall,investigating,field_team,2026-06-25,,
+C02,R-B,2026-06-19,community,oil_sheen_near_outfall,open,watershed_office,2026-06-28,,
+A01,R-A,2026-06-01,action,source_removed,complete,contractor,2026-06-10,,D01
+A02,R-B,2026-06-20,disposal,outfall_oil_cleanup,open,contractor,2026-07-05,,D02
+C03,R-A,2026-05-02,community,odor_from_sediment,complete,field_team,2026-05-20,,
+C04,R-C,2026-06-25,community,algae_bloom_report,open,field_team,2026-07-08,,

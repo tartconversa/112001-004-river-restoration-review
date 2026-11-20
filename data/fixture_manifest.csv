@@ -1,5 +1,8 @@
 dataset,records,purpose
 reaches.csv,3,reaches
-evidence.csv,3,evidence
-reports_actions.csv,3,reports_actions
-review_criteria.csv,3,review_criteria
+review_criteria.csv,4,review_criteria
+evidence.csv,9,evidence
+pollution_sources.csv,3,pollution_sources
+disposals.csv,2,disposals
+reports_actions.csv,6,reports_actions
+inspection_policy.csv,3,inspection_policy

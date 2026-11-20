@@ -1,4 +1,10 @@
-evidence_id,reach_id,date,evidence_type,measure,value,unit,source_ref
-E01,R-A,2026-05-10,water,DO,8.1,mg_l,LAB-1
-E02,R-B,2026-05-10,water,DO,5.2,mg_l,LAB-2
-E03,R-B,2026-06-15,ecology,fish_species,7,count,SURVEY-4
+evidence_id,reach_id,date,evidence_type,measure,value,unit,source_ref,season
+E01,R-A,2026-05-10,water,DO,8.1,mg_l,LAB-1,
+E02,R-B,2026-05-10,water,DO,5.2,mg_l,LAB-2,
+E03,R-B,2026-06-15,ecology,fish_species,7,count,SURVEY-4,
+E04,R-A,2026-06-12,water,DO,7.6,mg_l,LAB-5,
+E05,R-A,2026-06-20,ecology,fish_species,9,count,SURVEY-6,
+E06,R-B,2026-04-18,water,DO,7.4,mg_l,LAB-7,
+E07,R-B,2026-06-20,ecology,fish_species,6,count,SURVEY-8,
+E08,R-C,2026-06-08,water,DO,5.8,mg_l,LAB-9,
+E09,R-C,2026-06-22,water,DO,7.1,mg_l,LAB-10,
